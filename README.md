@@ -12,7 +12,7 @@ The guardian branch contains an example that uses the Guardian API. Add and comm
 When you try to run this code it will return a 403 error. This means you don't have access rights for the API.
 
 For this code to work you will have to apply for an API key and add it to the code (JS line 11). Get your key at http://open-platform.theguardian.com/access/.
-Replace the bit that says "<YOUR-API-KEY-HERE>" and add your own key.
+Replace the bit that says `<YOUR-API-KEY-HERE>` and add your own key.
 
 Now look at the index.html file in your browser. Enter a query in the search box and press enter. You will see a set of urls that link to Guardian articles related to the search term you entered. 
 
